@@ -13,7 +13,7 @@ public class LaunchBrowser {
 		driver.get("https://www.amazon.com/");
 
 		try {
-			Thread.sleep(3000);
+			Thread.sleep(5000);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

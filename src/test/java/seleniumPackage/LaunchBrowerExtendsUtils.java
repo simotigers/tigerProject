@@ -8,7 +8,7 @@ public class LaunchBrowerExtendsUtils extends Utils {
 		
 		 getBrowser("chrome","https://www.amazon.com/");
 
-		 hardWait (6000);
+		 hardWait (5000);
 		 tearDown();
 		 
 	}
